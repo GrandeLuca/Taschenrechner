@@ -1,0 +1,13 @@
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\bin\Debug\netcoreapp3.1\Taschenrechner.exe
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\bin\Debug\netcoreapp3.1\Taschenrechner.deps.json
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\bin\Debug\netcoreapp3.1\Taschenrechner.runtimeconfig.json
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\bin\Debug\netcoreapp3.1\Taschenrechner.runtimeconfig.dev.json
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\bin\Debug\netcoreapp3.1\Taschenrechner.dll
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\bin\Debug\netcoreapp3.1\Taschenrechner.pdb
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.csprojAssemblyReference.cache
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.AssemblyInfo.cs
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.dll
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.pdb
+C:\Users\l-mre\source\repos\Taschenrechner\Taschenrechner\obj\Debug\netcoreapp3.1\Taschenrechner.genruntimeconfig.cache

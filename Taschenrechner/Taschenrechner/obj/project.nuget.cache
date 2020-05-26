@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKSUeGXIeukMN+bGuULIBJR7DXUfOKHCDM3rKzAMmR0DxGsy2H3kPopKssIVodtQ6vvgNqVg8x8OcZwMqFBPyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\l-mre\\source\\repos\\Taschenrechner\\Taschenrechner\\Taschenrechner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l-mre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
